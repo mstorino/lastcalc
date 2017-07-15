@@ -1,0 +1,22 @@
+{
+  "name": "lastcalc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstorino/lastcalc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mstorino/lastcalc/issues"
+  },
+  "homepage": "https://github.com/mstorino/lastcalc#readme",
+  "dependencies": {
+    "jest": "^20.0.4"
+  }
+}
